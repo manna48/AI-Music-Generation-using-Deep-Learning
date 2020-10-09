@@ -1,6 +1,7 @@
 # AI-Music-Generation-using-Deep-Learning
 
-This case-study focuses on generating music automatically using Recurrent Neural Network(RNN).
+## This case-study focuses on generating music automatically using Recurrent Neural Network(RNN).
+
 We do not necessarily have to be a music expert in order to generate music. Even a non expert can generate a decent quality music using RNN.
 We all like to listen interesting music and if there is some way to generate music automatically, particularly decent quality music then it’s a big leap in the world of music industry.
 
